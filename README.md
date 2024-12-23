@@ -15,6 +15,13 @@ Below is a list of mini projects included in this repository:
 3. **Project 3: [Form Validation]**
    - This project showcases a fully functional, client-side **Registration Form** with real-time input validation, error handling, and local storage auto-save functionality. The form ensures that users input valid data before submission and provides visual feedback for errors or successful inputs.
 
+4. **Project 4: [Cryptocurrency Website]**
+   - A dynamic cryptocurrency website that includes:
+      - Real-time prices for Bitcoin, Ethereum, and Dogecoin.
+      - Latest cryptocurrency news fetched dynamically.
+      - A "Coming Soon" page with a countdown timer.
+      - Reusable navigation bar across pages.
+
 ## Features
 - Each project includes:
   - Basic web structure (HTML)
