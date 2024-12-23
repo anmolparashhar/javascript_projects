@@ -39,7 +39,7 @@ This project showcases a fully functional, client-side **Registration Form** wit
 4. If you reload the page, previously entered data will be restored from local storage.
 
 ## Scripts
-Contains the logic for:
+git Contains the logic for:
 - Field validation (username, email, password, confirm password).
 - Real-time error and success feedback.
 - Saving and restoring form data to/from local storage.
