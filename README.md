@@ -1,6 +1,6 @@
-# JavaScript Mini Projects
+# JavaScript Projects
 
-This repository contains a collection of mini projects built using HTML, CSS, and JavaScript. Each project is a standalone application demonstrating basic functionality and JavaScript concepts. The projects are designed to be simple and easy to understand, making them perfect for beginners looking to practice and enhance their skills in front-end development.
+This repository contains a collection of projects built using HTML, CSS, and JavaScript. Each project is a standalone application demonstrating basic functionality and JavaScript concepts. The projects are designed to be simple and easy to understand, making them perfect for beginners looking to practice and enhance their skills in front-end development.
 
 ## Projects
 
@@ -11,6 +11,9 @@ Below is a list of mini projects included in this repository:
 
 2. **Project 2: [Calculator]**
    - Description: This is a simple calculator web application built with HTML, CSS, and JavaScript. The app allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division, along with other functionalities like clearing, deleting, and percentage operations.
+
+3. **Project 3: [Form Validation]**
+   - This project showcases a fully functional, client-side **Registration Form** with real-time input validation, error handling, and local storage auto-save functionality. The form ensures that users input valid data before submission and provides visual feedback for errors or successful inputs.
 
 ## Features
 - Each project includes:
